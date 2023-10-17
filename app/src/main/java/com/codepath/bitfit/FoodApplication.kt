@@ -1,7 +1,7 @@
-package com.codepath.articlesearch
+package com.codepath.bitfit
 
 import android.app.Application
 
-class ArticleApplication : Application() {
+class FoodApplication : Application() {
     val db by lazy { AppDatabase.getInstance(this) }
 }
