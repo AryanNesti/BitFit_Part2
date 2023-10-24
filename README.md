@@ -1,8 +1,8 @@
-# Android Project 5 - *BitFit*
+# Android Project 6 - *BitFit2*
 
 Submitted by: **Aryan Nesti**
 
-**Aryan Nesti** is a health metrics app that allows users to track the foods that they consume and their calories.
+**BitFit** is a health metrics app that allows users to track calories in the foods you ate
 
 Time spent: **3** hours spent in total
 
@@ -10,18 +10,14 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): `calories`
-- [x] **There is a "create entry" UI that prompts users to make their daily entry**
-- [x] **New entries are saved in a database and then updated in the RecyclerView**
-- [x] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
- 
+- [x] **Use at least 2 Fragments**
+- [x] **Create a new dashboard fragment where users can see a summary of their entered data**
+- [x] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
+
 The following **optional** features are implemented:
 
-- [ ] **Create a UI for tracking averages and trends in metrics**
-- [x] **Improve and customize the user interface through styling and coloring**
-- [ ] **Implement orientation responsivity**
-- [ ] **Add a daily photo feature**
+- [ ] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
+- [ ] **Implement daily notifications to prompt users to fill in their data**
 
 The following **additional** features are implemented:
 
@@ -31,8 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![ezgif com-video-to-gif-5](https://github.com/AryanNesti/BitFit-Part-1/assets/98928740/a83499df-368a-4bfd-9242-0071542096da)
-
+![ezgif com-video-to-gif-6](https://github.com/AryanNesti/BitFit_Part2/assets/98928740/25354639-37d7-42e9-a87a-b8d9b640bb60)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/)
@@ -43,7 +38,7 @@ GIF created with [Kap](https://getkap.co/)
 
 ## Notes
 
-Some challanges encountered when completeing this project would be change and update the database from the articlesearch2 lab
+Describe any challenges encountered while building the app.
 
 ## License
 
